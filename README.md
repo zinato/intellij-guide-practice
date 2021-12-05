@@ -33,6 +33,16 @@
      - Element 단위로 옮기기
        - Mac : Option + Shift + Command + 화살표 좌 우 
        - Window, Linux : Alt + Ctrl + Shift + 화살표 좌 우
+4. 코드 즉시 보기 
+   - 인자값 즉시 보기 
+     - Mac : Command + P
+     - Window, Linux : Ctrl + P
+   - 코드 구현부 즉시 보기 
+     - Mac : Option + Space
+     - Window, Linux : Shift + Ctrl + I
+   - Doc 즉시 보기
+     - Mac : F1
+     - Window, Linux : Ctrl + Q
 # Git
 
 1. Git View On
