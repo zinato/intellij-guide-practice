@@ -68,6 +68,47 @@
       - Mac : Command + Shift + A => git pull
       - Window , Linux : Ctrl + Shift + A => git pull
 
+# Focus
+#### Focus Editor
+1. 단어별 이동 
+   - Mac : Alt + < , >
+   - Window, Linux : Ctrl + < , >
+   
+2. 단어별 선택 
+   - Mac : Shift + Alt + <, >
+   - Window, Linux : Shift + Ctrl + < , >
+
+3. 라인 첫 / 끝 이동 
+   - Mac : Fn + < , >
+   - Window, Linux : Home, End
+
+4. 라인 전체 선택
+   - Mac : Shift + Command + < , >
+   - Window, Linux : Shift + Home, End
+
+5. Page Up/Down
+   - Mac : Fn + 위/아래
+   - Window, Linux : Page Up/Down
+   
+#### Focus 특수키
+1. 포커스 범위 한 단계씩 늘리기
+    - Mac : Alt + 위/아리 화살표 
+    - Window, Linux :
+      - Ctrl + W(위)
+      - Shift + Ctrl + W(위)
+   
+2. 포커스 뒤로/앞으로 가기
+    - Mac : Command + [ , ]
+    - Window, Linux : Ctrl + Alt 좌,우
+   
+3. 멀티 포커스 
+    - Mac : Alt + Alt + 아래 
+    - Window, Linux : Ctrl + Ctrl + 아래 
+   
+4. 오류 라인으로 자동 포커스
+    - Mac : F2
+    - Window, Linux : F2
+
 
 # Plugin
 
